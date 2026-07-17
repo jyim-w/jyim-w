@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About Us"
-permalink: /about/
+permalink: /pages/about/
 ---
 
 [Read our About Page](about.md)

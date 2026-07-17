@@ -1,4 +1,4 @@
-remote_theme: mmistakes/minimal-mistakes@master
+remote_theme: "mmistakes/minimal-mistakes@master"
 title: testing title location
 description: testing description location
 
@@ -6,3 +6,4 @@ mainfont: "Times New Roman"
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-include-cache

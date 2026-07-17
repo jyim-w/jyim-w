@@ -1,5 +1,7 @@
 # TEST
 
+## [Testing](/test/)
+
 ## Pages
 
 ### General

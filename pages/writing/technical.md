@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Technical Writing Samples"
-permalink: /technical/
+permalink: /pages/writing/technical/
 ---
 
 

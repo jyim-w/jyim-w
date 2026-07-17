@@ -1,6 +1,6 @@
 ---
-layout: post
-title: "About Us"
+layout: default
+title: About Us
 permalink: /pages/about/
 ---
 

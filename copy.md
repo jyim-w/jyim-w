@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Copywriting
-permalink: /writes/copy/
+permalink: "/writes/copy/"
 ---
 
 # Copywriting

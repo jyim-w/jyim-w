@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Creative Writing
-permalink: "/writes/creative/"
+permalink: '/creative/'
 ---
 
 # Creative Writing
